@@ -1,0 +1,6 @@
+# O/S files
+.DS_Store
+
+# Derived files
+__pycache__
+*.pyc
